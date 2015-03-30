@@ -5,6 +5,9 @@ public class Persoana {
 	private String nume;
 	private String prenume;
 	private int age;
+	private String newVar;
+	
+	
 	public String getNume() {
 		return nume;
 	}
