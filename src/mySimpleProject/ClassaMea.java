@@ -1,5 +1,7 @@
 package mySimpleProject;
 
+import java.util.Random;
+
 public class ClassaMea {
 
 	public static void main(String[] args) {
@@ -17,6 +19,12 @@ public class ClassaMea {
 		System.out.println("Avem un commit de pe ZMonday");
 		for(int i =0;i<=2;i++)
 			System.out.println(i);
+		
+		
+		System.out.println("----------------------------------");
+		Random rand =new Random();
+		int var= rand.nextInt();
+		
 	}
 
 }
