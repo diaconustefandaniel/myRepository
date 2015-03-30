@@ -12,6 +12,8 @@ public class ClassaMea {
 		System.out.println("---Luni----");
 		
 		System.out.println("Primul commit de luni");
+		
+		System.out.println("----------------GitHubConFlicts---------");
 	}
 
 }
