@@ -12,6 +12,11 @@ public class ClassaMea {
 		System.out.println("---Luni----");
 		
 		System.out.println("Primul commit de luni");
+		
+		System.out.println("Avem un commit de pe ZMonday");
+		for(int i =0;i<=2;i++)
+			System.out.println(i);
 	}
 
 }
+ 
