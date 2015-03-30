@@ -10,13 +10,13 @@ public class ClassaMea {
 		int y=7;
 		System.out.println(x+y);
 		System.out.println("---Luni----");
-		
+
 		System.out.println("Primul commit de luni");
-		
+
+		System.out.println("----------------GitHubConFlicts---------");
 		System.out.println("Avem un commit de pe ZMonday");
 		for(int i =0;i<=2;i++)
 			System.out.println(i);
 	}
 
 }
- 
